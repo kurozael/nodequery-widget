@@ -1,0 +1,1 @@
+Make sure that this directory is writeable by PHP.

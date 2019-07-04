@@ -1,0 +1,8 @@
+{
+	"api_key": "",
+	"server_name": "",
+	"interval": "120",
+	"theme_class": "ram_cpu_tall",
+	"database": "data/database.db",
+	"main_font": "assets/Roboto-Regular.ttf"
+}
